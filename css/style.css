@@ -67,12 +67,21 @@ img{
 }
 
 .footer{
-    margin: 50px 50px 2px 50px;
-    padding: 10px 0px 10px 0px;
-    text-align: center;
+    margin: 10px 50px 2px 50px;
+    padding: 10px 0px 30px 0px;
     box-sizing: border-box;
     background: white;
     box-shadow: 2px 2px black;
+}
+
+li4{
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+li5{
+    float: right;
+    margin: 0px 20px 0px 0px;
 }
 
 a {
@@ -84,10 +93,13 @@ a {
   a:hover {
     text-decoration: underline;
   }
+  
+.photo1{
+    float: right;
+    margin: 0px 15px 15px 15px;
+}
 
-  li4{
-    margin: 0px 150px 0px 0px
-  }
-  li5 {
-    margin: 0px 0px 0px 150px;
-  }
+hr{
+    height: 1px;
+    background: rgb(2, 2, 2);
+}
