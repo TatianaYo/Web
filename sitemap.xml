@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns = "https://www.sitemap.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+		<url>
+			<loc>https://ca09632.tmweb.ru</loc>
+          	<lastmod>2022-06-23T20:33:12+03:00</lastmod>
+          	<changefreq>weekly</changefreq>
+          	<image:image>
+          		<image:loc>https://ca09632.tmweb.ru/imga/8f552adb3924e23b2b7cf6fb74e1362e.jpeg</image:loc>
+          	</image:image>
+          	<image:image>
+          		<image:loc>https://ca09632.tmweb.ru/imga/52f2b5e2705bfb87d7f8b1a75f19a19c.jpeg</image:loc>
+          	</image:image>
+          	<image:image>
+          		<image:loc>https://ca09632.tmweb.ru/imga/14977255131412_1920x1200.jpg</image:loc>
+          	</image:image>
+        </url>
+ 	</urlset>
